@@ -1,0 +1,2 @@
+# OddsGPT
+Odds API + GPT
