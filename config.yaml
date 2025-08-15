@@ -1,0 +1,11 @@
+regions: ["eu"]
+markets: ["h2h", "spreads", "totals"]
+bookmakers: []
+min_ev: 0.02
+kelly_factor: 0.25
+max_bet_pct: 0.05
+min_odds: 1.01
+max_odds: 10.0
+min_time_to_start: 0
+sport_filter: []
+ui_autorefresh: 30

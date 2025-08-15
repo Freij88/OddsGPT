@@ -1,0 +1,14 @@
+httpx
+tenacity
+pydantic
+pandas
+numpy
+sqlmodel
+python-dotenv
+PyYAML
+click
+streamlit
+plotly
+rich
+watchdog
+pytest
